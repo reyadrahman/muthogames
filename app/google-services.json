@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555859307481",
+    "project_id": "mutho-games",
+    "storage_bucket": "mutho-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555859307481:android:f36ea1d86e76e0a47bc7c8",
+        "android_client_info": {
+          "package_name": "com.mutho.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555859307481-kaavl36kpdu3gu3u3jpc4lk72hf811bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutho.games",
+            "certificate_hash": "b8457dc8154d95d24dd10113f43173b1560f83cb"
+          }
+        },
+        {
+          "client_id": "555859307481-9qlr9lr4jnvg7ugt1ihmjth0th716pqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk65RRN7hrPLAmzxvTypmijPM8L2undho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555859307481-9qlr9lr4jnvg7ugt1ihmjth0th716pqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
